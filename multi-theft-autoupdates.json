@@ -1,0 +1,18 @@
+[
+    {
+        "UpdateStageName": "Downloading Files, Please Wait.",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://cdn.discordapp.com/attachments/1103105174706323558/1133278063715680276/server.zip",
+        "UpdateSourceArgs": "",
+        "UpdateSourceVersion": "",
+        "UpdateSourceTarget": "",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": true,
+        "ForceDownloadPlatform": null,
+        "UpdateSourceConditionSetting": null,
+        "UpdateSourceConditionValue": null,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
